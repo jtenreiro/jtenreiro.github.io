@@ -5,6 +5,15 @@ author_profile: true
 title: Work Samples
 ---
 
+## NCC News
+<img src="/images/ncc.png" height="75px" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TzPtkFvy_LE?rel=0" frameborder="0" allowfullscreen></iframe>
+<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XrMnqDYUc9Q?rel=0" frameborder="0" allowfullscreen></iframe>
+<br />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d6Ani958K0E?rel=0" frameborder="0" allowfullscreen></iframe>
+<br />
+
 ## The Brown and White
 <img src="/images/bw.png" height="75px" />
 <h4><a href="http://thebrownandwhite.com/2016/04/17/voter-turnout/">Local PA elections face low voter turnout - The Brown and White</a></h4><p>This year's presidential election season has been underfoot for months, with more than half of U.S. states and territories voting or caucusing to select their party representatives. On April 26, Pennsylvania voters will flock to their polling places, contributing to an already high primary election voter turnout.</p>
@@ -14,15 +23,6 @@ title: Work Samples
 <h4><a href="http://thebrownandwhite.com/2015/10/19/bethlehem-thrift-shop/">Thrift store's value remain with the community - The Brown and White</a></h4><p>The thrift store is humming with activity. Patrons mill around between racks full of colorful clothes, tables of ceramic knickknacks and shelves piled high with well-worn books. Children busy themselves in the corner with plastic toy trucks and a stand filled with board games. Music plays quietly in the background as the customers fill plastic...</p>
 
 <h4><a href="http://thebrownandwhite.com/2015/11/23/edit-desk-racially-ambiguous/">Edit desk: For the racially ambiguous - The Brown and White</a></h4><p>Sixth grade. Health class. The setting of many an adolescent discovery. We were filling out a questionnaire regarding a topic I can no longer recall, quickly and absentmindedly coloring circles in an effort for early dismissal. I was plugging along with the rest until one question had me falter, unsure.</p>
-
-## NCC News
-<img src="/images/ncc.png" height="75px" />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TzPtkFvy_LE?rel=0" frameborder="0" allowfullscreen></iframe>
-<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XrMnqDYUc9Q?rel=0" frameborder="0" allowfullscreen></iframe>
-<br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d6Ani958K0E?rel=0" frameborder="0" allowfullscreen></iframe>
-<br />
 
 ## Civil Service World
 <img src="/images/ccw.png" height="75px" />
