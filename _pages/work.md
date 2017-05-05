@@ -7,6 +7,8 @@ title: Work Samples
 
 ## NCC News
 <img src="/images/ncc.png" height="75px" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6yVlPPgl5NQ?rel=0" frameborder="0" allowfullscreen></iframe>
+<br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TzPtkFvy_LE?rel=0" frameborder="0" allowfullscreen></iframe>
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XrMnqDYUc9Q?rel=0" frameborder="0" allowfullscreen></iframe>
