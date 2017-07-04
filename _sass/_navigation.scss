@@ -176,6 +176,7 @@
   position: relative;
   min-width: 250px;
   background: $background-color;
+  font-size: 0.8em;
 
   a {
     display: block;
@@ -186,6 +187,20 @@
 
     &:hover {
       color: $masthead-link-color-hover;
+    }
+  }
+
+  .masthead__menu-item--lg {
+    font-size: 2em;
+    a {
+      color: $dark-gray;
+
+      &:hover {
+        color: $dark-gray;
+        &:before {
+          display: none;
+        }
+      }
     }
   }
 
@@ -206,7 +221,7 @@
 
     li {
       display: table-cell;
-      vertical-align: middle;
+      // vertical-align: middle;
 
       &:first-child {
         font-weight: bold;
@@ -232,7 +247,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        background: mix(#fff, $masthead-link-color, 50%);
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;

@@ -45,9 +45,11 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  text-transform: uppercase;
 
   &--lg {
-    padding-right: 2em;
     font-weight: 700;
+    font-family: 'Dawning of a New Day', cursive;
+    text-transform: none;
   }
 }
